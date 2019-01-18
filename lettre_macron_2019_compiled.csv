@@ -1,0 +1,133 @@
+id,score,sentence,nb_words,score_cat,sentiment_flag,sentence_length,nb_words_cat
+99,0.21161282062530518,Should the white vote be recognized?,7,2,0,36,0
+124,0.22851619124412537,This is neither an election nor a referendum.,9,2,0,45,0
+77,0.83835482597351074,At what levels and for which services?,8,8,1,38,0
+67,0.77610987424850464,Our social model is also questioned.,7,7,1,36,0
+72,0.79616779088974,Which objectives should be prioritized?,6,7,1,39,0
+104,0.76766657829284668,Should we transform them and how?,7,7,1,33,0
+4,0.81273865699768066,The need for mutual aid and solidarity stronger.,9,8,1,48,0
+17,0.81056547164916992,"This ambition, I share it.",7,8,1,26,0
+20,0.84828102588653564,We need to respond with ideas clear.,8,8,1,36,0
+109,0.81033593416213989,Citizenship is also about living together.,7,8,1,42,0
+21,0.2536768913269043,But there is one condition: to accept no form of violence.,13,2,0,58,1
+23,0.27964454889297485,"If everyone attack everyone, society gets rid of!",10,2,0,49,1
+42,0.27516213059425354,"On these major orientations, my determination has not changed.",11,2,0,62,1
+56,0.25808298587799072,And he deprives the workers the fruit of their efforts.,11,2,0,55,1
+62,0.24551597237586975,Which taxes should it to your eyes lower in priority?,11,2,0,53,1
+64,0.28473708033561707,What are the savings that seem to you priority to do?,12,2,0,53,1
+65,0.2560502290725708,Should certain public services be abolished which would be overwhelmed or too expensive by compared to their usefulness?,19,2,0,120,1
+81,0.5,"** The ecological transition is the third theme, essential to our future.",14,5,1,73,1
+51,0.5,He is the one who finances our services public.,10,5,1,47,1
+93,0.76952213048934937,The question of biodiversity also arises to us all.,10,7,1,51,1
+9,0.5,"That is why France is, of all nations, one of the most fraternal and most egalitarian.",19,5,1,86,1
+28,0.5,"In France, overseas and with French residents abroad.",10,5,1,53,1
+32,0.5,"We will not agree on everything, it's normal is democracy.",13,5,1,58,1
+38,0.5,"I still think we need to rebuild industrial sovereignty, digital and to invest in knowledge and research.",19,5,1,105,1
+49,0.5,"** The first subject is on our taxes, our expenses and public action.",15,5,1,69,1
+50,0.5,**  Tax is at the heart of our solidarity National.,11,5,1,51,1
+63,0.5,"We can not, anyway, continue tax cuts without lowering the level of our public expenditure.",18,5,1,91,1
+87,0.5,National solidarity is needed to that all the French can do it.,13,5,1,63,1
+107,0.5,"Should we associate more directly non-elected citizens, for example by lot, by public decision?",17,5,1,95,1
+116,0.5,The question of secularism is still in France subject of important debates.,13,5,1,75,1
+5,0.75589454174041748,"At home, those who work are financing retirees pensions.",11,7,1,56,1
+108,0.737829864025116,Should we increase the use of referendums and who should have the initiative?,14,7,1,77,1
+58,0.76095587015151978,They have just been voted and are just beginning to deliver their effects.,14,7,1,74,1
+59,0.76441287994384766,Parliament will evaluate them transparently and with the necessary hindsight.,11,7,1,77,1
+75,0.7871469259262085,Are there too many administrative levels or levels of local government?,12,7,1,71,1
+83,0.75683629512786865,Today nobody challenges the driving force need to act quickly.,11,7,1,62,1
+85,0.79823911190032959,"Making the ecological transition allows reduce fuel-constrained expenditures, in heating, waste management and transport.",17,7,1,121,1
+90,0.72060215473175049,What are the simplest solutions and the most bearable on a financial level?,14,7,1,75,1
+92,0.76216220855712891,What concrete proposals would you do to speed up our transition environmental?,13,7,1,78,1
+102,0.7224581241607666,"Should we, and in what proportions, limit the number of parliamentarians or others categories of elected?",19,7,1,105,1
+106,0.74588841199874878,"What changes do you want for make citizen participation more active, more participative democracy?",16,7,1,98,1
+113,0.70429915189743042,What do you propose to improve integration in our Nation?,11,7,1,57,1
+115,0.7181658148765564,What are you proposing to meet this challenge who will last?,12,7,1,60,1
+118,0.772050678730011,It is synonymous with freedom because it allows everyone to live by his choices.,15,7,1,80,1
+123,0.74504280090332031,This debate is an unprecedented initiative of which I have the firm will draw all the conclusions.,18,7,1,98,1
+16,0.88606959581375122,All would like a country more prosperous and a more just society.,13,8,1,65,1
+47,0.85326278209686279,"On each of these themes, proposals, questions are already expressed.",13,8,1,68,1
+66,0.84807252883911133,"Conversely, do you see new needs for public services and how to finance them?",16,8,1,77,1
+76,0.80785274505615234,Should strengthen decentralization and give more power of decision and action closer to the citizens?,16,8,1,101,1
+78,0.89355546236038208,How would you like the state to be organized and how can it improve his action?,17,8,1,79,1
+79,0.80989354848861694,Should we review the functioning of administration and how?,10,8,1,59,1
+82,0.83162117004394531,**  I committed to preservation goals biodiversity and the fight against global warming and air pollution.,17,8,1,106,1
+94,0.84715831279754639,How should we guarantee scientifically the choices we have to make to this respect ?,15,8,1,84,1
+54,0.29587012529373169,It is also the tax that allows to settle the interests of the debt very important that our country has contracted over time.,24,2,0,124,2
+88,0.25838589668273926,"How to finance the transition ecological: by taxes, by taxes and by should be concerned in priority?",20,2,0,100,2
+114,0.24113801121711731,"In immigration matters, once our asylum obligations are fulfilled, do you want us to be able to fix ourselves annual targets set by Parliament?",27,2,0,143,2
+119,0.23537737131118774,How to strengthen the principles of secularism in the relationship between the State and the religions of our country?,20,2,0,118,2
+18,0.5,"The society that we want is a society in which to succeed we should not need of relationships or fortune, but of effort and job.",27,5,1,128,2
+25,0.5,** That's why I proposed and I'm launching today a big national debate that will take place until March 15th.,23,5,1,109,2
+30,0.5,Mayors will have a vital role as they are your elected representatives and therefore the legitimate intermediary of the expression of the citizens.,24,5,1,147,2
+40,0.5,I still think that the exhaustion of natural resources and disruption climate change compels us to rethink our development model.,21,5,1,129,2
+36,0.82408201694488525,I still think he must restore France's prosperity to that she can be generous because one is going with the other.,23,8,1,114,2
+70,0.5,"The Government began to respond, after wide consultations, through a strategy to improve our health, to fight against poverty and against unemployment.",26,5,1,151,2
+74,0.5,"**  Utilities have a cost but they are vital: school, police, army, hospitals, courts are essential to our social cohesion.",26,5,1,123,2
+91,0.5,"What are the solutions to move, to lodge, to warm themselves, to feed themselves be conceived rather at the local level than national?",27,5,1,134,2
+103,0.5,"What role do our assemblies, including the Senate and the Economic, Social and Environmental, should they play for represent our territories and civil society?",28,5,1,159,2
+125,0.5,"It's your personal expression, corresponding to your story, your opinions, your priorities, which is here expected, without distinction age and social condition.",29,5,1,161,2
+7,0.691867470741272,"In we, education, health, security, justice are accessible to everyone regardless of the situation and the fortune.",22,6,1,115,2
+52,0.698078989982605,"He comes to pay the teachers, firefighters, policemen, military, magistrates, nurses and all public servants who work at your service.",26,6,1,134,2
+24,0.78672730922698975,"So that expectations dominate fears, it is necessary and legitimate that we let's put together the big questions of our future.",24,7,1,127,2
+44,0.77206879854202271,"In this debate, I wish that the greatest number of French, the largest number of us, can participate.",22,7,1,101,2
+57,0.76248669624328613,We will not revisit the measures we have taken to correct this to encourage investment and make that work pay more.,22,7,1,115,2
+73,0.7317386269569397,"** The second subject on which we must take decisions, it's the organization state and community public.",20,7,1,104,2
+86,0.723269522190094,"But to succeed in this transition, he must invest heavily and accompany our fellow citizens the most modest.",20,7,1,108,2
+89,0.71214020252227783,"How to make concrete solutions accessible to all, for example to replace his old boiler or his old car ?",21,7,1,104,2
+126,0.7544715404510498,"It is, I believe, a big step forward for our Republic than to consult its citizens in this way.",22,7,1,95,2
+12,0.872719407081604,"Everyone shares the fate of others and everyone is called to decide the destiny of all: it is all this, the French Nation.",26,8,1,122,2
+19,0.85546135902404785,"In France, but also in Europe and in the world, not only a great worry, but also a big trouble have won the minds.",28,8,1,114,2
+26,0.8731619119644165,"**  In recent weeks, mayors have open their town halls so you can express your expectations I had first returns that I could take into account.",28,8,1,143,2
+34,0.858507513999939,"And maybe we'll discover that we can agree, mostly beyond our preferences, more often than do not believe it.",23,8,1,109,2
+35,0.80393117666244507,"I did not forget that I was elected on a project, on major orientations to which I remain faithful.",21,8,1,99,2
+55,0.84673428535461426,"But the tax, when it is too high, deprives our resource economy that could usefully invest in companies, creating and employment and growth.",27,8,1,140,2
+80,0.87134623527526855,How the state and local authorities can they improve to better answer to the challenges of our most in difficulty and what do you propose?,26,8,1,138,2
+96,0.87851953506469727,"** Finally, it is obvious that the period that our country crosses shows we need give more strength to the democracy and citizenship.",25,8,1,133,2
+97,0.83886539936065674,"**  Being a citizen means helping to decide of the future of the country by the election of representatives at the local, national or European.",27,8,1,143,2
+105,0.8543696403503418,"In addition, a great democracy like France must be able to listen more often the voice of its citizens.",21,8,1,103,2
+110,0.22473779320716858,"Our country has always known how to welcome those who have fled wars, persecutions and sought refuge on our soil: it is the right of asylum, which does not can not be questioned.",37,2,0,178,3
+1,0.5,"Dear French, Dear French, My dear compatriots,  In a period of questions and uncertainties like the one we are going through, we must remember who we are.",32,5,1,154,3
+11,0.5,"And every citizen has the right to choose those and those who will carry his voice in driving of the country, in the drafting of laws, in big decisions to make.",34,5,1,160,3
+29,0.5,"In villages, towns, neighborhoods, on the initiative of mayors, elected officials, officials associations, or ordinary citizens ... In parliamentary assemblies like regional or departmental.",31,5,1,190,3
+129,0.5,"Your proposals will help build a new contract for the Nation, to structure the action of the Government and the Parliament, but also the positions of France at European and international.",34,5,1,187,3
+53,0.76661980152130127,"It allows to pay to the most fragile social benefits but also finance some big projects for the future, our research, our culture, or to maintain our infrastructures.",32,7,1,166,3
+27,0.8852536678314209,We let's go into a more phase ample and you can participate in debates near you or express yourself on internet to put forward your proposals and your ideas.,31,8,1,157,3
+37,0.83060181140899658,"I still think that the fight against unemployment must be our big priority, and that employment is created first and foremost in companies, so it takes their give the means to develop.",35,8,1,184,3
+43,0.82070672512054443,"But I also think that from this debate can come out a clarification of our national project and European, new ways of thinking the future, new ideas.",30,8,1,149,3
+46,0.5,"That is why, with the Government, we selected four major themes that cover a lot of the big issues of the Nation: taxation and public spending, the organization of the state and public services, ecological transition, democracy and citizenship.",46,5,1,244,4
+15,0.5,"By that taxes are too high for them, public services too far away, because the wages are too low for some can live worthily the fruit of their work, because our country does not offer the same chances to succeed depending on the place or family Where we come from.",54,5,1,264,5
+31,0.14202141761779785,"For me, there are no forbidden questions.",9,1,0,41,0
+60,0.13424432277679443,We must instead interrogate us to go further.,9,1,0,45,0
+2,0.28250449895858765,France is not a country like the others.,9,2,0,40,0
+14,0.089145570993423462,"I know, of course, that some of us are today dissatisfied or angry.",16,0,0,67,1
+45,0.11106100678443909,This debate will have to answer questions essential issues that have emerged in recent weeks.,16,1,0,93,1
+68,0.1099618673324585,"Some consider it insufficient, others too expensive because of the contributions they pay.",15,1,0,90,1
+69,0.12875178456306458,The effectiveness of training as employment services is often criticized.,11,1,0,73,1
+84,0.10789784789085388,"The longer we wait for us questioning, plus these transformations will be painful.",15,1,0,82,1
+128,0.17571708559989929,This is how I intend to transform with you anger in solutions.,13,1,0,62,1
+3,0.28528431057929993,The meaning of injustice is more vivid than elsewhere.,10,2,0,54,1
+112,0.04759863018989563,"However, this tradition is today shaken up by tensions and doubts related to immigration and failures of our integration system.",22,0,0,128,2
+48,0.12213617563247681,I wish to formulate some some who do not exhaust the debate but seem to be at the heart of our questions.,23,1,0,105,2
+6,0.2141072154045105,"With us, a big number of citizens pay an income tax, sometimes heavy, which reduces inequalities.",20,2,0,97,2
+98,0.14678987860679626,This system of representation is the bedrock of our Republic but it needs to be improved because many do not feel not represented at the end of the elections.,30,1,0,158,3
+122,0.10134494304656982,"I also wish you could go beyond of these subjects that I propose to you, to evoke any concrete topic you would have the impression that it could improve your everyday existence.",34,1,0,177,3
+22,0.14858788251876831,"I do not accept the pressure and insult, for example on the elected of the people, I do not accept and do not have the right to accept the general indictment, by example of the media, journalists, institutions and officials.",46,1,0,224,4
+13,0.28606700897216797,How not to feel pride in being French?,9,2,0,38,0
+100,0.76915514469146729,Should we make voting compulsory?,6,7,1,33,0
+71,0.92853301763534546,How to better organize our pact social?,8,9,1,39,0
+132,0.90430712699890137,"In trust, Emmanuel Macron",5,9,1,25,0
+120,0.87733328342437744,How to ensure respect by all mutual understanding and values intangibles of the Republic?,15,8,1,89,1
+61,0.92180347442626953,How could we make our tax more just and more effective?,12,9,1,55,1
+130,0.92448842525482178,I will give you some account directly in the month following the end of debate.,16,9,1,79,1
+117,0.88811337947845459,"Secularism is the primordial value so that can live together, in good intelligence and harmony, different convictions, religious or philosophical.",24,8,1,146,2
+8,0.91958940029144287,"The difficulties of life, like unemployment, can be overcome, thanks to the effort shared by all.",20,9,1,97,2
+10,0.95653319358825684,"It's also one of the freest, since everyone is protected in his rights and freedom of opinion, conscience, belief or philosophy.",26,9,1,128,2
+33,0.96960639953613281,"But at least will we show that we are a people who is not afraid to speak, to exchange, to discuss.",24,9,1,99,2
+39,0.90262001752853394,"I still think it takes rebuild a school of trust, a system renovated social to better protect the French and reduce inequalities at the root.",27,9,1,141,2
+41,0.9791715145111084,"We must invent a productive, social, educational project, environmental and European new, more just and more effective.",22,9,1,119,2
+95,0.912726640701294,How to share these choices at European and international level for that our farmers and our industrialists are not penalized in relation to their foreign competitors?,27,9,1,166,2
+101,0.94448065757751465,What is the right dose of proportional in parliamentary elections for a representation more fair of all political projects?,20,9,1,123,2
+121,0.91831940412521362,"In the coming weeks, I invite you to debate to answer these questions decisive for the future of our Nation.",22,9,1,108,2
+127,0.983712911605835,"For guarantee your freedom of speech I want that this consultation is organized in independence, and be framed by all guarantees of loyalty and transparency.",27,9,1,157,2
+111,0.86425626277923584,"Our community national level has also always been open to those who, born elsewhere, chose France, looking for a better future: this is as it was also built.",33,8,1,157,3
+131,0.87632656097412109,"Dear French, dear French, my dear ones compatriots, I wish the greatest many of you can participate in this great debate in order to do useful work for the future of our country.",37,8,1,178,3
