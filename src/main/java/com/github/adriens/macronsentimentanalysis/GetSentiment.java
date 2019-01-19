@@ -75,7 +75,7 @@ public class GetSentiment {
 // *** Update or verify the following values. ***
 // **********************************************
 // Replace the accessKey string value with your valid access key.
-    static String accessKey = "e3079b9882dc40afaf1f335e53d84afc";
+    static String accessKey = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
 // Replace or verify the region.
 // You must use the same region in your REST API call as you used to obtain your access keys.
